@@ -1,1 +1,1 @@
-Node JS api for user login and registartion
+Node JS api for user login and registration
